@@ -11,6 +11,9 @@ import {
   AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
+import { FaWhatsapp } from "react-icons/fa6";
+import { MdOutlineAlternateEmail } from "react-icons/md";
+
 
 function About() {
 
@@ -47,22 +50,22 @@ function About() {
           >
             <img src={laptopImg} alt="about" className="img-fluid" />
           </Col> */}
-              {/* <Row> */}
-                <Col md={8} className="home-about-description">
-                  <h1 style={{ fontSize: "2.6em" }}>
-                    WHO <span className="purple"> AM </span> i ?
-                  </h1>
-                  <p className="home-about-body">
-                  With <b className="purple"> comprehensive </b> experience in web application development,
-                  <br />
-                  <br />
-                   I have honed my skills in both <b className="purple">frontend and backend development. </b>
-                   <br />
-                   <br />
-                   In <b className="purple">addition </b> to my hands-on experience in web development, my education
-                    <br />
-                    has also played a critical role in providing a <b className="purple"> strong foundation </b> for my career.
-                    {/* I fell in love with programming and I have at least learnt
+          {/* <Row> */}
+          <Col md={8} className="home-about-description">
+            <h1 style={{ fontSize: "2.6em" }}>
+              WHO <span className="purple"> AM </span> i ?
+            </h1>
+            <p className="home-about-body">
+              With <b className="purple"> comprehensive </b> experience in web application development,
+              <br />
+              <br />
+              I have honed my skills in both <b className="purple">frontend and backend development. </b>
+              <br />
+              <br />
+              In <b className="purple">addition </b> to my hands-on experience in web development, my education
+              <br />
+              has also played a critical role in providing a <b className="purple"> strong foundation </b> for my career.
+              {/* I fell in love with programming and I have at least learnt
                     something, I think… 🤷‍♂️
                     <br />
                     <br />I am fluent in classics like
@@ -95,54 +98,75 @@ function About() {
                         forefront of the exciting field of technology.
                       </b>
                     </i> */}
-                  </p>
-                </Col>
-                <Col md={4} className="myAvtar">
-                  <Tilt>
-                    <img src={myImg} className="img-fluid" alt="avatar" />
-                  </Tilt>
-                </Col>
-              </Row>
-              <Row>
-                <Col md={12} className="home-about-social">
-                  <h1>FIND ME ON</h1>
-                  <p>
-                    Feel free to <span className="purple">connect </span>with me
-                  </p>
-                  <ul className="home-about-social-links">
-                    <li className="social-icons">
-                      <a
-                        href="https://github.com/yashbhoskar"
-                        target="_blank"
-                        rel="noreferrer"
-                        className="icon-colour  home-social-icons"
-                      >
-                        <AiFillGithub />
-                      </a>
-                    </li>
-                    <li className="social-icons">
-                      <a
-                        href="https://www.linkedin.com/in/yashbhoskar31/"
-                        target="_blank"
-                        rel="noreferrer"
-                        className="icon-colour  home-social-icons"
-                      >
-                        <FaLinkedinIn />
-                      </a>
-                    </li>
-                    <li className="social-icons">
-                      <a
-                        href="https://www.instagram.com/__yyaasshh__/"
-                        target="_blank"
-                        rel="noreferrer"
-                        className="icon-colour home-social-icons"
-                      >
-                        <AiFillInstagram />
-                      </a>
-                    </li>
-                  </ul>
-                </Col>
-              {/* </Row>
+            </p>
+          </Col>
+          <Col md={4} className="myAvtar">
+            <Tilt>
+              <img src={myImg} className="img-fluid" alt="avatar" />
+            </Tilt>
+          </Col>
+        </Row>
+        <Row>
+          <Col md={12} className="home-about-social">
+            <h1>FIND ME ON</h1>
+            <p>
+              Feel free to <span className="purple">connect </span>with me
+            </p>
+            <ul className="home-about-social-links">
+              <li className="social-icons">
+                <a
+                  href="https://github.com/yashbhoskar"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="icon-colour  home-social-icons"
+                >
+                  <AiFillGithub />
+                </a>
+              </li>
+              <li className="social-icons">
+                <a
+                  href="https://www.linkedin.com/in/yashbhoskar31/"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="icon-colour  home-social-icons"
+                >
+                  <FaLinkedinIn />
+                </a>
+              </li>
+              <li className="social-icons">
+                <a
+                  href="https://wa.me/qr/VXCYDKDPNQ73J1"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="icon-colour  home-social-icons"
+                >
+                  <FaWhatsapp />
+                </a>
+              </li>
+              <li className="social-icons">
+                <a
+                  href="mailto:yashbhoskar01@gmail.com"
+                  target="_blank"
+                  style={{ color: "white" }}
+                  rel="noopener noreferrer"
+                  className="icon-colour  home-social-icons"
+                >
+                  <MdOutlineAlternateEmail />
+                </a>
+              </li>
+              <li className="social-icons">
+                <a
+                  href="https://www.instagram.com/__yyaasshh__/"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="icon-colour home-social-icons"
+                >
+                  <AiFillInstagram />
+                </a>
+              </li>
+            </ul>
+          </Col>
+          {/* </Row>
             </Container>
           </Container> */}
         </Row>

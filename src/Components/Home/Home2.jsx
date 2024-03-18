@@ -70,6 +70,16 @@ function Home2() {
                 </a>
               </li>
               <li className="social-icons">
+                      <a
+                        href="https://wa.me/qr/VXCYDKDPNQ73J1"
+                        target="_blank"
+                        rel="noreferrer"
+                        className="icon-colour  home-social-icons"
+                      >
+                        <FaWhatsapp />
+                      </a>
+                    </li>
+              <li className="social-icons">
                 <a
                   href="https://www.linkedin.com/in/yashbhoskar31/"
                   target="_blank"
