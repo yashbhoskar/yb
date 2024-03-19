@@ -461,6 +461,8 @@ html {
 
   .experience {
     background-image: var(--section-background-color) !important ;
+    padding-top: 4.5rem;
+    padding-bottom: 2.5rem;
   }
   /* --------- */
   /* Projects */

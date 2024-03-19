@@ -11,9 +11,9 @@ const Experience = () => {
   return (
     <div className="experience" >
       <div className="">
-        <div className="p-5 mt-5">
+        {/* <div className="p-5 mt-5">
 
-        </div>
+        </div> */}
         <VerticalTimeline VerticalTimeline>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"

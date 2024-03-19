@@ -4,7 +4,7 @@
 
 Check out the live demo of the portfolio website here. 
 
-*[Live Dome](https://your-portfolio-demo.com)*
+*[Live Dome](https://yashbhoskar.github.io/yb)*
 
 <!-- ## Features ✨
 
@@ -18,4 +18,3 @@ Check out the live demo of the portfolio website here.
 
 - ReactJs
 - React Bootstrap
-

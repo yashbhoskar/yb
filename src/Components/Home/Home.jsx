@@ -5,6 +5,7 @@ import Particle from "../Particle";
 import Type from "./Type";
 import About from "../About/About.jsx";
 import Projects from "../Projects/Projects.jsx";
+import Experience from "../Experience/Experience.jsx";
 
 function Home() {
   return (
@@ -41,7 +42,7 @@ function Home() {
                   <b className="purple">new initiatives. </b>
                   <br />
                   <br />I bring a unique combination of <b className="purple"> technical skills </b> and
-                 <b className="purple">creative</b> problem-solving to every project I work on.
+                  <b className="purple">creative</b> problem-solving to every project I work on.
                 </p>
               </div>
             </Col>
@@ -60,6 +61,7 @@ function Home() {
       {/* <Home2 /> */}
       <About />
       <Projects />
+      <Experience />
       {/* <Footer /> */}
     </section>
   );
