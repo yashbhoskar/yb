@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/yb/static/css/main.55846f21.css",
+    "main.js": "/yb/static/js/main.d01c4a82.js",
+    "static/js/787.ccb54541.chunk.js": "/yb/static/js/787.ccb54541.chunk.js",
+    "static/media/her-bg.jpg": "/yb/static/media/her-bg.5e28911bb8bd85536071.jpg",
+    "static/media/license 2.jpg": "/yb/static/media/license 2.ffb4ed8724870c174d3b.jpg",
+    "static/media/LMS.jpg": "/yb/static/media/LMS.5b8d7de6a983a540ce1c.jpg",
+    "static/media/Avatar.jpeg": "/yb/static/media/Avatar.c4923f1d045c86013506.jpeg",
+    "static/media/hom-bg-3.jpg": "/yb/static/media/hom-bg-3.04e44a3484f4779aece0.jpg",
+    "static/media/Yash.Bhoskar_Resume_MAR2014.pdf": "/yb/static/media/Yash.Bhoskar_Resume_MAR2014.f63907c1bfc6368e5c84.pdf",
+    "static/media/Terminal.png": "/yb/static/media/Terminal.165a478009201d9272e2.png",
+    "static/media/Advit.png": "/yb/static/media/Advit.1dd12374e0482c33941c.png",
+    "static/media/home-main-bg-2.svg": "/yb/static/media/home-main-bg-2.7d2f7c8831b7371d87faa805416f51ef.svg",
+    "static/media/todohub.png": "/yb/static/media/todohub.d995a4a6096c1da6cace.png",
+    "static/media/yb-logo.png": "/yb/static/media/yb-logo.2b76d07c69c9d63326a1.png",
+    "static/media/pre.svg": "/yb/static/media/pre.06eb80cf0a9d2ea45d18.svg",
+    "index.html": "/yb/index.html",
+    "main.55846f21.css.map": "/yb/static/css/main.55846f21.css.map",
+    "main.d01c4a82.js.map": "/yb/static/js/main.d01c4a82.js.map",
+    "787.ccb54541.chunk.js.map": "/yb/static/js/787.ccb54541.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55846f21.css",
+    "static/js/main.d01c4a82.js"
+  ]
+}
