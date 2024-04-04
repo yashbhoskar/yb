@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/yb/static/css/main.211e2ded.css",
-    "main.js": "/yb/static/js/main.37330a8a.js",
+    "main.js": "/yb/static/js/main.a18794fe.js",
     "static/js/787.ccb54541.chunk.js": "/yb/static/js/787.ccb54541.chunk.js",
     "static/media/her-bg.jpg": "/yb/static/media/her-bg.5e28911bb8bd85536071.jpg",
     "static/media/license 2.jpg": "/yb/static/media/license 2.ffb4ed8724870c174d3b.jpg",
     "static/media/LMS.jpg": "/yb/static/media/LMS.5b8d7de6a983a540ce1c.jpg",
     "static/media/Avatar.jpeg": "/yb/static/media/Avatar.c4923f1d045c86013506.jpeg",
     "static/media/hom-bg-3.jpg": "/yb/static/media/hom-bg-3.04e44a3484f4779aece0.jpg",
-    "static/media/Yash.Bhoskar_Resume_MAR2014.pdf": "/yb/static/media/Yash.Bhoskar_Resume_MAR2014.f63907c1bfc6368e5c84.pdf",
+    "static/media/MEAN___python_work_resume.pdf": "/yb/static/media/MEAN___python_work_resume.7b3640264313c243f012.pdf",
     "static/media/Terminal.png": "/yb/static/media/Terminal.165a478009201d9272e2.png",
     "static/media/Advit.png": "/yb/static/media/Advit.1dd12374e0482c33941c.png",
     "static/media/home-main-bg-2.svg": "/yb/static/media/home-main-bg-2.7d2f7c8831b7371d87faa805416f51ef.svg",
@@ -17,11 +17,11 @@
     "static/media/pre.svg": "/yb/static/media/pre.06eb80cf0a9d2ea45d18.svg",
     "index.html": "/yb/index.html",
     "main.211e2ded.css.map": "/yb/static/css/main.211e2ded.css.map",
-    "main.37330a8a.js.map": "/yb/static/js/main.37330a8a.js.map",
+    "main.a18794fe.js.map": "/yb/static/js/main.a18794fe.js.map",
     "787.ccb54541.chunk.js.map": "/yb/static/js/787.ccb54541.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.211e2ded.css",
-    "static/js/main.37330a8a.js"
+    "static/js/main.a18794fe.js"
   ]
 }
