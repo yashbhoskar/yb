@@ -3,7 +3,7 @@ import { Col, Container, Row } from "react-bootstrap";
 import Button from "react-bootstrap/Button";
 import ButtonGroup from "react-bootstrap/ButtonGroup";
 import Particle from "../Particle";
-import pdf from "../../Assets/Yash.Bhoskar_Resume_MAR2014.pdf";
+import pdf from "../../Assets/MEAN___python_work_resume.pdf";
 // Yash.Bhoskar_Resume_MAR2014.pdf
 import { AiOutlineDownload } from "react-icons/ai";
 import { Document, Page, pdfjs } from "react-pdf";
